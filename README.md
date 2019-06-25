@@ -46,6 +46,7 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 + I registered Service-worker in index.html by using <script> tags and given path of `serviceWorker` ( sw.js ).
 + Created `manifest.json` file with few properties and also compressed images with `flexable` sizes. Included the images paths in `manifest.json` file.
 + I had manipulated the code in dbhelper.js to work with any server. Committed the `url` with port and assigned direct path,
+   
 **NOTE** : I run this project using PYTHON SERVER, we can also run this project using 200 OK server, for that we need to implement some changes in dbhelper.js.
 
 **NOTE** : This webpages is responsive for DESKTOP, MOBILE, Tablet Mode.
